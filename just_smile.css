@@ -1,0 +1,43 @@
+#ONE{
+    background-color:white;
+    BORDER:5PX SOLID BLACK;
+    height: 50PX;
+    WIDTH:50PX;
+    padding-top:20px;
+    padding-left:20px;
+    background-color:red;
+}
+div{
+    display:inline-block;
+}
+
+#TWO{
+    background-color:rgb(227, 14, 14);
+    BORDER:5PX SOLID BLACK;
+    height: 50PX;
+    WIDTH:50PX;
+    padding-top:20px;
+    padding-left:20px;
+    position:relative;
+  
+   
+}
+
+body{
+    text-align:center;
+    text-decoration:underline;
+    text-transform: uppercase;
+    background-image:URL("sush.webp");
+    background-size:CONTAIN;
+    padding-top :200px;
+}
+#TWO:hover{
+   
+    background-color: aliceblue;
+    top:200px;
+  
+  
+  
+    
+
+}
